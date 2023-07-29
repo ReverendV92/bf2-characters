@@ -1,0 +1,23 @@
+
+Info
+{
+
+	"name"				"BF2 Characters"
+	"description"		"Counter-Strike: Source character models with Battlefield 2 look-a-like textures for Obsidian Conflict"
+
+	"version"			"2022-10-20"
+	"created"			"2022-09-11"
+	"modified"			"2022-10-20"
+
+	"creator"
+	{
+
+		"name"			"V92"
+		"contact"		"Steam"
+		"url"			"https://steamcommunity.com/profiles/76561197998218505"
+
+	}
+
+	"override"			false
+
+}

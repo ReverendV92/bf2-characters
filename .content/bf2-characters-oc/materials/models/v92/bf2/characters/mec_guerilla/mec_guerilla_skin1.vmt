@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/bf2/characters/mec_guerilla/mec_guerilla_skin1
+	$bumpmap models/v92/bf2/characters/mec_guerilla/mec_guerilla_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+
+}

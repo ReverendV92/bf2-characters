@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/bf2/kits/ch/ch_kits_skin1
+	$bumpmap models/v92/bf2/kits/ch/ch_kits_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+
+}

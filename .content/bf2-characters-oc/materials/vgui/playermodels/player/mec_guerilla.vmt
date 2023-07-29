@@ -1,0 +1,8 @@
+
+unlitgeneric
+{
+
+	$basetexture dev/bump_normal
+	$no_draw 1
+
+}

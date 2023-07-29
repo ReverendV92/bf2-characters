@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/bf2/kits/ch/china_specopskit
+	$bumpmap models/v92/bf2/kits/ch/china_specopskit_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+
+}
