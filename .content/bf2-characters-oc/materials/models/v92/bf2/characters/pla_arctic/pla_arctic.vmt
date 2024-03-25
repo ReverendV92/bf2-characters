@@ -8,4 +8,18 @@ vertexlitgeneric
 
 	$halflambert 1
 
+	$color2 "[ 1 1 1 ]"
+	proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
 }
